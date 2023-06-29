@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img alt="GitHub Stats"  height="180px" margin_right="10%" src="https://github-readme-stats-rho-vert.vercel.app/api?username=wanderson10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img alt="GitHub Stats"  height="180px" margin_right="10%" src="https://github-readme-stats-rho-vert.vercel.app/api?username=wanderson10&show_icons=true&theme=dracula&include_all_commits=true&count_private=false" />
   <img alt="Top langs"  height="180px" src="https://github-readme-stats-rho-vert.vercel.app/api/top-langs/?username=Maksons&layout=compact&theme=graywhite&hide_border=true&langs_count=15" />
 </div>
 
