@@ -1,4 +1,4 @@
-# Olá, me chamo Makson! 
+# Olá!! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 #### Principais tecnologias e ferramentas:
@@ -22,7 +22,7 @@
 
 <div align="center">
   <img alt="GitHub Stats"  height="180px" margin_right="10%" src="https://github-readme-stats-rho-vert.vercel.app/api?username=Wanderson10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img alt="Top langs"  height="180px" src="https://github-readme-stats-rho-vert.vercel.app/api/top-langs/?username=maksonss4&layout=compact&theme=graywhite&hide_border=true&langs_count=15" />
+  <img alt="Top langs"  height="180px" src="https://github-readme-stats-rho-vert.vercel.app/api/top-langs/?username=Wanderson10&layout=compact&theme=graywhite&hide_border=true&langs_count=15" />
 </div>
 
 <br/>
