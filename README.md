@@ -19,12 +19,7 @@
 </div>
 
 <br/>
-  <a href="https://api.whatsapp.com/send/?phone=5551997866074&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href ="mailto:wg21249@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wanderson-corr%C3%AAa-guedes-51684b246/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<div align="center">
-  <img alt="GitHub Stats"  height="180px" margin_right="10%" src="https://github-readme-stats-rho-vert.vercel.app/api?username=wanderson10&show_icons=true&theme=dracula&include_all_commits=true&count_private=false" />
-   <img alt="Top langs"  height="180px" src="https://github-readme-stats-rho-vert.vercel.app/api/top-langs/?username=wanderson10&layout=compact&theme=graywhite&hide_border=true&langs_count=15" />
+ 
 </div>
 
 <br/>
@@ -32,5 +27,18 @@
 <div align="center">
 
 
+</div>
+
+
+<div align="center">
+  <img alt="Top langs"  height="180px" src="https://github-readme-stats-rho-vert.vercel.app/api/top-langs/?username=wanderson10&layout=compact&theme=graywhite&hide_border=true&langs_count=15" />
+</div>
+
+<br/>
+
+<div align="center">
+ <a href="https://api.whatsapp.com/send/?phone=5551997866074&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href ="mailto:wg21249@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wanderson-corr%C3%AAa-guedes-51684b246/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
